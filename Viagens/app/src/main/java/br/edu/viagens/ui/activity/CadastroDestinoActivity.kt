@@ -24,7 +24,7 @@ class CadastroDestinoActivity : AppCompatActivity() {
         val etUrl = findViewById<EditText>(R.id.etUrl)
         val btSalvar = findViewById<Button>(R.id.btSalvar)
         val tvVerLista = findViewById<TextView>(R.id.tvVerLista)
-
+  //uvggyvgiy
         btSalvar.setOnClickListener {
             val nome = etNome.text.toString()
             val regiao = etRegiao.text.toString()
